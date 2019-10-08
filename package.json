@@ -2,11 +2,12 @@
   "name": "react-gh-pages",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://avidler.github.io/react-gh-pages",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
-    "homepage": "http://avidler.github.io/react-gh-pages"
+    "react-scripts": "3.2.0"
+   
   },
   "scripts": {
     "start": "react-scripts start",
